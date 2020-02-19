@@ -3,3 +3,4 @@
 
 ##### [logback-spring.xml](https://github.com/totalo/config-repo/blob/master/logback-spring.xml) 日志配置
 ##### [.gitignore](https://github.com/totalo/config-repo/blob/master/.gitignore) Git忽略文件设置
+##### [IpUtils](https://github.com/totalo/config-repo/blob/master/IpUtils.java) IpUtils.java获取真实IP
